@@ -1,3 +1,16 @@
+## Author
+**Vishnu Kumar Jha**  
+IIT Madras – BS Degree Program  
+Business Data Management (BDM) Capstone Project
+
+---
+
+## Disclaimer
+This project is for academic purposes only.  
+All data and recommendations are specific to KD Hero and do not represent institutional endorsement.
+
+---
+
 # Inventory Management Efficiency – BDM Capstone Project
 Optimizing operational effectiveness through data-driven demand forecasting and inventory optimization.
 
@@ -69,15 +82,3 @@ The study focuses on analyzing sales patterns, inventory inefficiencies, and pro
   - Monitor KPIs such as inventory turnover, carrying cost, and stockouts regularly
 
 ---
-
-
-## Author
-**Vishnu Kumar Jha**  
-IIT Madras – BS Degree Program  
-Business Data Management (BDM) Capstone Project
-
----
-
-## Disclaimer
-This project is for academic purposes only.  
-All data and recommendations are specific to KD Hero and do not represent institutional endorsement.
